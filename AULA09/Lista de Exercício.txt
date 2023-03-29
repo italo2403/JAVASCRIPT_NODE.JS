@@ -1,0 +1,49 @@
+1) Crie um Array chamado "cores" com as cores vermelho, verde e azul, e adicione a cor amarela ao final do Array.
+
+2) Crie uma função que receba um Array como argumento e retorne o maior número do Array.
+
+3) Crie uma função que receba um Array de strings como argumento e retorne um novo Array com todas as strings em letras maiúsculas.
+
+4) Crie uma função que receba dois Arrays como argumentos e retorne um novo Array com todos os elementos dos dois Arrays, sem duplicatas.
+
+5) Crie uma função que receba um Array de números como argumento e retorne a média dos números.
+
+6) Crie uma função que receba um Array de números como argumento e retorne um novo Array com todos os números pares do Array original.
+
+7) Crie uma função que receba um Array de números como argumento e retorne um novo Array com todos os números ímpares do Array original.
+
+8) Crie uma função que receba um Array de objetos como argumento, onde cada objeto representa uma pessoa com as propriedades "nome" e "idade", e retorne um novo Array com os nomes das pessoas maiores de idade.
+
+9) Crie uma função que receba um Array de strings como argumento e retorne um objeto com as frequências de cada string no Array.
+
+10) Crie uma função que receba um Array de números como argumento e retorne um novo Array com os números ordenados do menor para o maior.
+
+11) Crie um objeto chamado "pessoa" com as propriedades "nome", "idade" e "profissao".
+
+12) Crie uma função que receba um objeto pessoa como argumento e retorne a idade da pessoa.
+
+13) Crie uma função que receba um objeto pessoa como argumento e adicione a propriedade "sexo" com o valor "masculino".
+
+14) Crie uma função que receba dois argumentos: um objeto pessoa e uma profissão, e altere a propriedade "profissao" do objeto para a profissão informada.
+
+15) Crie uma função construtora chamada "Animal" com as propriedades "especie" e "nome", e os métodos "comer" e "dormir".
+
+16) Crie um objeto "gato" a partir da função construtora Animal com a especie "felino" e o nome "Miau".
+
+17) Crie uma função construtora chamada "ContaBancaria" com as propriedades "saldo" e "titular", e os métodos "depositar" e "sacar".
+
+18) Crie um objeto "conta" a partir da função construtora ContaBancaria com o saldo inicial de 1000 e o titular "João".
+
+19) Crie um método "transferir" para o objeto conta, que recebe como argumento outra conta e um valor, e transfere o valor da conta atual para a conta informada.
+
+20)Crie um objeto "carro" com as propriedades "marca", "modelo" e "ano", e os métodos "ligar" e "desligar". Use a notação literal de objetos.
+
+21) Crie um objeto "aluno" com as propriedades "nome", "idade" e "notas". "notas" deve ser um array com as notas do aluno em uma determinada disciplina.
+
+22) Crie uma função que receba um objeto aluno como argumento e retorne a média das notas do aluno.
+
+23) Crie uma função que receba um objeto aluno como argumento e adicione uma nova nota ao array "notas" do aluno.
+
+24) Crie um array "alunos" com vários objetos aluno, e crie uma função que retorne a média de todas as notas dos alunos.
+
+25) Crie uma função que receba o array "alunos" como argumento e retorne o objeto aluno com a maior média de notas.
